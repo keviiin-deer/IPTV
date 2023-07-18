@@ -1,0 +1,104 @@
+#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.17:5146
+
+#EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.158:5146
+
+#EXTINF:-1 tvg-name="CCTV-3" group-title="IPTV-央视",CCTV-3高清
+http://loujiadayuan.cn:14000/rtp/239.77.0.169:5146
+
+#EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4高清
+http://loujiadayuan.cn:24000/rtp/239.77.0.78:5146
+
+#EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5高清
+http://loujiadayuan.cn:14000/rtp/239.77.0.170:5146
+
+#EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6高清
+http://loujiadayuan.cn:14000/rtp/239.77.0.171:5146
+
+#EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清测试
+http://loujiadayuan.cn:24000/rtp/239.77.0.138:5146
+
+#EXTINF:-1 tvg-name="CCTV-8" group-title="IPTV-央视",CCTV-8高清
+http://loujiadayuan.cn:14000/rtp/239.77.0.172:5146
+
+#EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.160:5146
+
+#EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.113:5146
+
+#EXTINF:-1 tvg-name="CCTV-11" group-title="IPTV-央视",CCTV-11高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.238:5146
+
+#EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.109:5146
+
+#EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13高清
+http://loujiadayuan.cn:14000/rtp/239.77.0.188:5146
+
+#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.161:5146
+
+#EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.239:5146
+
+#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.76:5146
+
+#EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业高清
+http://loujiadayuan.cn:14000/rtp/239.77.0.198:5146
+
+#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.4:5146
+
+#EXTINF:-1 tvg-name="河北卫视" group-title="IPTV-卫视",河北卫视高清
+http://loujiadayuan.cn:14000/rtp/239.77.0.148:5146
+
+#EXTINF:-1 tvg-name="河南卫视" group-title="IPTV-卫视",河南卫视高清
+http://loujiadayuan.cn:14000/rtp/239.77.0.17:5146
+
+#EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.141:5146
+
+#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.142:5146
+
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.103:5146
+
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.6:5146
+
+#EXTINF:-1 tvg-name="贵州卫视" group-title="IPTV-卫视",贵州卫视高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.221:5146
+
+#EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视高清
+http://loujiadayuan.cn:14000/rtp/239.77.0.159:5146
+
+#EXTINF:-1 tvg-name="江西卫视" group-title="IPTV-卫视",江西卫视高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.219:5146
+
+#EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.93:5146
+
+#EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.92:5146
+
+#EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.218:5146
+
+#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.18:5146
+
+#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.33:5146
+
+#EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.5:5146
+
+#EXTINF:-1 tvg-name="云南卫视" group-title="IPTV-卫视",云南卫视高清
+http://loujiadayuan.cn:14000/rtp/239.253.43.37:5146
+
+#EXTINF:-1 tvg-name="重庆卫视" group-title="IPTV-卫视",重庆卫视高清
+http://loujiadayuan.cn:14000/rtp/239.77.1.162:5146
